@@ -55,13 +55,17 @@ _Does it include any sub-functionalities that can be used independently?_
 ## Bug report examples
 These example bug reports are outcomes of a software testing competition I participated in. Their publication does not violate any rules or confidentiality agreements. I included them to demonstrate what my work typically looks like in practice.
 - **Blocker (High security risk)**
+---
 ![bug report](images/tc1.png)
 
 - **Blocker/Critical (Overselling)** - I marked this one as critical during the competition because there were many other blocking issues, but I can imagine it being a blocker on its own as well.
+---
 ![bug report](images/tc2.png)
 
 - **Major (Possible performance problems that may occur in the future)** - The products were divided into categories, but when the user selected “Show all products,” all items were displayed on a single page.
+---
 ![bug report](images/tc3.png)
 
 - **Minor (Poor UX, accidental order placement)**
+---
 ![bug report](images/tc4.png)
