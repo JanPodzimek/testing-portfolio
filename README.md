@@ -54,7 +54,7 @@ _Does it include any sub-functionalities that can be used independently?_
 
 ## Bug report examples
 These example bug reports are outcomes of a software testing competition I participated in. Their publication does not violate any rules or confidentiality agreements. I included them to demonstrate what my work typically looks like in practice.
----
+
 - **Blocker (High security risk)**
 ---
 ![bug report](images/tc1.png)
