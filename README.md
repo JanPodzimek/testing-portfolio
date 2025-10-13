@@ -9,7 +9,7 @@ Since my testing strategy varies depending on the product, it’s hard to descri
 - My top priority is to identify fundamental deviations from the specified behavior, but I also pay close attention to ways the product might violate user expectations.
 
 ## Testing framework
-A structured testing framework designed to ensure comprehensive coverage of all critical areas of a tested feature. The original version of this framework was created by **James Bach** and is based on his context-driven testing approach. I’ve customized it to better suit my own workflow and daily testing practice.
+A structured testing framework designed to ensure comprehensive coverage of all critical areas of a tested feature. The original version of this framework was created by **James Bach** and is based on the context-driven testing approach. I’ve customized it to better suit my own workflow and daily testing practice.
 
 ![testing framework](images/feature-testing-framework.png)
 
